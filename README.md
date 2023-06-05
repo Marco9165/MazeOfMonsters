@@ -26,6 +26,6 @@ make
 6. Enjoy playing Maze of Monsters! Explore the maze, defeat monsters, and strive to find the key that leads to victory.
 
 ## Group P1_02
-**A104187** Marco António Fernandes Brito	
-**A104352** Pedro de Seabra Vieira
-**A104176** Pedro Filipe Maneta Pinto
+A104187 - Marco António Fernandes Brito
+A104352 - Pedro de Seabra Vieira
+A104176 - Pedro Filipe Maneta Pinto
