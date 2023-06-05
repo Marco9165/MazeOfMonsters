@@ -9,7 +9,7 @@ To run the game, follow these steps:
 1. Make sure you have the necessary dependencies installed, such as a C compiler (e.g., GCC) and the required libraries (e.g., ncurses).
 2. Clone the game repository from the Git repository using the command:
 ```bash
-git clone 
+git clone https://github.com/pedrovieira712/MazeOfMonsters.git
 ```
 3. Navigate to the game directory:
 ```bash
